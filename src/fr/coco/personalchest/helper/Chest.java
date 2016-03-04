@@ -53,8 +53,6 @@ public class Chest {
         owner.sendMessage("§cVotre inventaire a été sauvegardé.");
 
 
-
-
     }
 
     public Player getOwner() {
