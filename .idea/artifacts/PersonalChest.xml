@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PersonalChest">
+    <output-path>C:/Plugins</output-path>
+    <root id="archive" name="PersonalChest.jar">
+      <element id="module-output" name="PersonnalChest" />
+    </root>
+  </artifact>
+</component>

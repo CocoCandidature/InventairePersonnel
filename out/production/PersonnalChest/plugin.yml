@@ -1,0 +1,7 @@
+name: PersonalChest
+version: 1
+main: fr.coco.personalchest.PersonalChest
+author: coco33920
+commands:
+  createchest:
+  chest:
